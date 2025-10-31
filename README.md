@@ -13,7 +13,8 @@ Criei alguns projetos para testar meus conhecimentos, sendo eles:
 
 ## Dados Estatísticos
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulo-V-Developer34&show_icons=true)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Paulo-V-Developer34&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-V-Developer34&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ## Tecnologias
 
@@ -36,6 +37,6 @@ Criei alguns projetos para testar meus conhecimentos, sendo eles:
 
 ##
 
-> **AVISO:** Se estiver difícil de visualizar a cobrinha altere o tema do github para escuro
+> **AVISO:** Se estiver difícil de visualizar a cobrinha altere o tema do github para claro
 
 <img src="https://raw.githubusercontent.com/Paulo-V-Developer34/Paulo-V-Developer34/output/snake.svg" alt="Snake animation" />
