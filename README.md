@@ -36,6 +36,6 @@ Criei alguns projetos para testar meus conhecimentos, sendo eles:
 
 ##
 
->Se estiver difícil de visualizar a cobrinha altere o tema do github para escuro
+> **AVISO:** Se estiver difícil de visualizar a cobrinha altere o tema do github para escuro
 
 <img src="https://raw.githubusercontent.com/Paulo-V-Developer34/Paulo-V-Developer34/output/snake.svg" alt="Snake animation" />
