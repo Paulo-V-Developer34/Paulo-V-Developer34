@@ -8,7 +8,7 @@ Meu nome é Paulo Victor e comecei a programar em 2023 com a linguagem de progra
 
 Criei alguns projetos para testar meus conhecimentos, sendo eles:
 > **AVISO:** O Water Rock Learn é o substituto do **Marechal Web**, por isso ele não está sendo contado aqui
-- [Water Rock Lear](https://github.com/Paulo-V-Developer34/WaterRockLearn)
+- [Water Rock Learn](https://github.com/Paulo-V-Developer34/WaterRockLearn)
 - [We Vets](https://github.com/Paulo-V-Developer34/We-Vets)
 
 ## Dados Estatísticos
