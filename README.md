@@ -36,4 +36,4 @@ Criei alguns projetos para testar meus conhecimentos, sendo eles:
 
 ##
 
-![Snake Animation](https://github.com/Paulo-V-Developer34/Paulo-V-Developer34/blob/output/github-snake.svg)
+![Snake Animation](https://github.com/Paulo-V-Developer34/Paulo-V-Developer34/blob/output/github-contribution-grid-snake2.svg)
