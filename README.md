@@ -33,3 +33,7 @@ Criei alguns projetos para testar meus conhecimentos, sendo eles:
   <a href="https://www.linkedin.com/in/paulo-victor-nunes-cunha-037a93287" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+##
+
+![Snake Animation](https://github.com/Paulo-V-Developer34/Paulo-V-Developer34/blob/output/github-snake.svg)
