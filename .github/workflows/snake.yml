@@ -46,7 +46,7 @@ jobs:
 
           github_user_name: Paulo-V-Developer34
 
-          outputs: dist/snake.svg?palette=github-dark
+          outputs: dist/snake.svg?palette=github-light
 
 
 
